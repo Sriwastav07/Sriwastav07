@@ -1,7 +1,9 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&customColorList=12,20,24,25&section=header&text=About%20Me&fontSize=62&fontColor=ffffff"
-width="100%" />
+width="100%"&stroke=00f5ff&amp;
+strokeWidth=1&amp;fontAlignY=36&amp;desc=%3E%20FULL%20STACK%20%7C%20AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&amp;descSize=18&amp;descAlignY=58&amp;animation=
+twinkling&amp;section=header />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=290&amp;color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&amp;text=ANISHA%20KUMARI&amp;fontSize=62&amp;fontColor=ffffff&amp;stroke=00f5ff&amp;
 strokeWidth=1&amp;fontAlignY=36&amp;desc=%3E%20FULL%20STACK%20%7C%20AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&amp;descSize=18&amp;descAlignY=58&amp;animation=
