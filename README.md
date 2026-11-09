@@ -1,9 +1,11 @@
 
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,45:7c3aed,100:06b6d4&text=Anisha%20Kumari&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%26%20ML%20%7C%20Software%20Engineering&descSize=20&descAlignY=60&animation=twinkling&section=header" alt="Anisha Kumari banner" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0d1117%2C45%3A7c3aed%2C100%3A06b6d4&amp;height=260&amp;text=Anisha%20Kumari&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20%7C%20AI%20%26%20ML%20%7C%20Software%20Engineering&amp;descSize=20&amp;descAlignY=60&amp;animation=twinkling&amp;section=header"
+    width="100%"
+    alt="Anisha Kumari banner"
+  />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Development+Engineer+Aspirant;Building+Innovative+Projects" alt="Typing animation" />
 </a>
