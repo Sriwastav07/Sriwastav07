@@ -1,8 +1,11 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&customColorList=12,20,24,25&height=60&section=header&text=About%20Me&fontSize=25&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&customColorList=12,20,24,25&section=header&text=About%20Me&fontSize=62&fontColor=ffffff"
+width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=290&amp;color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&amp;text=ANISHA%20KUMARI&amp;fontSize=62&amp;fontColor=ffffff&amp;stroke=00f5ff&amp;strokeWidth=1&amp;fontAlignY=36&amp;desc=%3E%20FULL%20STACK%20%7C%20AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&amp;descSize=18&amp;descAlignY=58&amp;animation=twinkling&amp;section=header" alt="Anisha Kumari banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=290&amp;color=0:0a0a1a,30:2e0a5e,65:0066ff,100:00f5ff&amp;text=ANISHA%20KUMARI&amp;fontSize=62&amp;fontColor=ffffff&amp;stroke=00f5ff&amp;
+strokeWidth=1&amp;fontAlignY=36&amp;desc=%3E%20FULL%20STACK%20%7C%20AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&amp;descSize=18&amp;descAlignY=58&amp;animation=
+twinkling&amp;section=header" alt="Anisha Kumari banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=%3E+Full+Stack+Developer;%3E+AI+%26+Machine+Learning+Enthusiast;%3E+Software+Development+Engineer+Aspirant;%3E+Building+Innovative+Projects" alt="Typing animation" />
 </a>
