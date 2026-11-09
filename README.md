@@ -5,6 +5,8 @@ width="100%"&stroke=00f5ff&amp;
 strokeWidth=1&amp;fontAlignY=36&amp;desc=%3E%20FULL%20STACK%20%7C%20AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&amp;descSize=18&amp;descAlignY=58&amp;animation=
 twinkling&amp;section=header />
 
+<img src="https://github-readme-stats.vercel.app/api?username=sriwastav07&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=A855F7&text_color=FFFFFF" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=%3E+Full+Stack+Developer;%3E+AI+%26+Machine+Learning+Enthusiast;%3E+Software+Development+Engineer+Aspirant;%3E+Building+Innovative+Projects" alt="Typing animation" />
 </a>
 </a>
