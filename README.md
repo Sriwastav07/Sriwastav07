@@ -7,13 +7,13 @@
     alt="Anisha Kumari banner"
   />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Development+Engineer+Aspirant;Building+Innovative+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Development+Engineer+Aspirant;Building+Innovative+Projects" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7c3aed?style=for-the-badge&labelColor=0d1117" alt="B.Tech CSE" />
-<img src="https://img.shields.io/badge/Lovely%20Professional%20University-06b6d4?style=for-the-badge&labelColor=0d1117" alt="Lovely Professional University" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="B.Tech CSE" />
+<img src="https://img.shields.io/badge/Lovely%20Professional%20University-06b6d4?style=for-the-badge&amp;labelColor=0d1117" alt="Lovely Professional University" />
 
 <br/><br/>
 
@@ -28,10 +28,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student at **Lovely Professional University** with a strong interest in:
+I'm a Computer Science &amp; Engineering student at **Lovely Professional University** with a strong interest in:
 
 - 🌐 **Full Stack Development**
-- 🤖 **Artificial Intelligence & Machine Learning**
+- 🤖 **Artificial Intelligence &amp; Machine Learning**
 - ⚙️ **Software Engineering**
 
 ---
@@ -41,29 +41,29 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,py,js,php&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=java,py,js,php&amp;theme=dark" alt="Programming languages" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&amp;theme=dark" alt="Frontend" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&amp;theme=dark" alt="Backend" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&amp;theme=dark" alt="Databases" />
 
 ### 🧠 AI / Machine Learning
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=git,githubactions,aws,docker,kubernetes,jenkins,terraform,prometheus,grafana&theme=dark" alt="DevOps and Cloud" />
+### ☁️ DevOps &amp; Cloud
+<img src="https://skillicons.dev/icons?i=git,githubactions,aws,docker,kubernetes,jenkins,terraform,prometheus,grafana&amp;theme=dark" alt="DevOps and Cloud" />
 
 ### 📊 Analytics
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
 
 </div>
 
@@ -73,16 +73,16 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sriwastav07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriwastav07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sriwastav07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00f5ff&amp;icon_color=a855f7&amp;text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriwastav07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00f5ff&amp;text_color=c9d1d9" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sriwastav07&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=00f5ff&currStreakLabel=00f5ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sriwastav07&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a855f7&amp;fire=00f5ff&amp;currStreakLabel=00f5ff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriwastav07&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriwastav07&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=00f5ff&amp;line=a855f7&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed&amp;hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -104,10 +104,10 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 <div align="center">
 
 <a href="https://leetcode.com/u/anishaKumari_07/">
-  <img src="https://img.shields.io/badge/LeetCode-anishaKumari__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-anishaKumari__07-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1117" alt="LeetCode" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/anishasril7tb/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-anishasril7tb-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-anishasril7tb-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white&amp;labelColor=0d1117" alt="GeeksforGeeks" />
 </a>
 
 </div>
@@ -119,15 +119,15 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anisha172/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://github.com/sriwastav07">
-  <img src="https://img.shields.io/badge/GitHub-sriwastav07-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-sriwastav07-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sriwastav07&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sriwastav07&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" />
 
 </div>
 
@@ -136,12 +136,12 @@ I'm a Computer Science & Engineering student at **Lovely Professional University
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=45&lines=Code.+Learn.+Build.+Repeat." alt="Code. Learn. Build. Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1500&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=45&amp;lines=Code.+Learn.+Build.+Repeat." alt="Code. Learn. Build. Repeat." />
 
 <br/>
 
 ⭐ Thanks for stopping by!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06b6d4,55:7c3aed,100:0d1117&section=footer&animation=twinkling" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=0:06b6d4,55:7c3aed,100:0d1117&amp;section=footer&amp;animation=twinkling" alt="Footer wave" />
 
 </div>
